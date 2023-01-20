@@ -1,0 +1,65 @@
+.car{
+    background-image: url(hot-gadget/bg-2.png);
+    background-repeat: no-repeat;
+   background-position: left bottom;
+    background-size: 170px;
+    margin-bottom: 50px;   
+}
+.bg{
+    background-color: #ffc91d !important;
+}
+.carousel-item{
+    margin-bottom: 50px;
+}
+.carousel-item img{
+    margin-bottom: 80px;
+}
+.text{
+    background-image: url(hot-gadget/bg-1.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: right;
+}
+.item-in-center{
+    padding-left: 80px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;}
+    .card{
+        box-shadow: 5px 5px 10px lightgray;
+        border-radius: 20px;
+        text-align: center;
+    }
+    .see-all{
+        text-decoration: none;
+        color: orange;
+        font-size: bold;
+    }
+    .space{
+        margin-bottom: 150px;
+    }
+    .cat p{
+        padding: 4px;
+        background-color: #ffc91d;
+        border-radius: 10px;
+    }
+    .place-order img{
+        width: 600px;
+    }
+    .last{
+        box-shadow: 5px 5px 40px lightgray;
+        padding: 10px;
+        border-radius: 15px;
+        text-decoration: none;
+        text-align: center;
+        color: black;
+    }
+    footer{
+        margin-top: 70px;
+        margin-bottom: 10px;
+    }
